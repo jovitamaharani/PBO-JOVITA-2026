@@ -3,7 +3,7 @@
 | NIM |  254107020022|
 | Nama |  Jovita Maharani |
 | Kelas | TI - 2F |
-| Repository | [link] (https://github.com/jovitamaharani/PBO-JOVITA-2026/) |
+| Repository | [link] (https://github.com/jovitamaharani/PBO-JOVITA-2026/blob/main/src/BikeDemo) |
 
 # Jobsheet 01 - Pengantar PBO
 
