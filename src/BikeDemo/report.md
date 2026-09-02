@@ -49,7 +49,7 @@ PS C:\Java\PBO-JOVITA-2026>
 
 ## Tugas Praktikum
 a.	Foto 4 buah objek di sekitar kalian dengan 2 objek di antaranya merupakan objek yang mengandung konsep pewarisan (inheritance), contoh: kulkas, kursi, meja ruang tamu, meja belajar sehingga diketahui meja ruang tamu dan meja belajar mewarisi objek meja! 
-![tas](image.png) ![cermin](image-1.png) ![kertas](image-2.png) ![payung](image-3.png)
+![ember](image.png) ![botol](image-1.png) ![tas](image-2.png) ![galon](image-3.png)
 b.	Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
 class wadahair: 
 - atribut = bahan, kapasitas liter
